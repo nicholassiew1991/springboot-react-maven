@@ -4,3 +4,10 @@
 
 # Java
 target
+
+# Node
+node
+node_modules
+
+# Build
+src/main/resources/generated-**
